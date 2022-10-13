@@ -1,0 +1,240 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+h1{
+  font-weight: bolder;
+  color: #F9FAF8;
+  font-size: 48px;
+  margin: 0;
+}
+b{
+  color: #E5E7EB;
+}
+.top-container{
+  background-color: #1F2937;
+  margin: 100 auto;
+  height: 600px;
+  width: 100%;
+}
+.header-content{
+  margin:0;
+  width: 550px;
+  text-align: left;
+  position: relative;
+  left: 250px;
+  top: 180px;
+}
+.party-img{
+  width: 430px;
+  height: 300px;
+  position: absolute;
+  left: 900px;
+  top: 150px;
+  border-width: bold;
+  border-color: white;
+  border-style: solid;
+  border-radius: 700px;
+}
+.headerlinks-div{
+  margin: 0 auto;
+  width: 350px;
+  position: relative;
+  left: 450px;
+  top: 40px;
+}
+.logo{
+height: 150px;
+position: absolute;
+left: 15%;
+}
+.header-links{
+  margin: auto;
+  color:#E5E7EB;
+  position:static;
+  text-decoration: none;
+  padding: 0 20px;
+}
+p{
+  color: #E5E7EB;
+  font-size: 18px;
+  margin: auto;
+}
+.middle-container{
+  height: 1150px;
+  width:100%;
+  text-align: center;
+  line-height: 1;
+}
+.offer-img-div{
+  display: flex;
+  margin-left: 250px;
+}
+h2{
+  font-weight: bold;
+  color: #1F2937;
+  font-size: 36px;
+}
+.bottom-container{
+  height: 600px;
+  width:100%;
+}
+.quote{
+  background-color: #E5E7EB;
+  width: 100%;
+  height: 300px;
+}
+.quote-text{
+  font-style: italic;
+  font-weight:lighter;
+  color: #1F2937;
+  font-size: 36px;
+  height: 100px;
+  width: 1000px;
+  position: relative;
+  top:100px;
+}
+
+h3{
+  font-weight: bold;
+  color: #F9FAF8;
+  margin: 0 auto;;
+}
+.signup-line{
+  background-color: #3882F6;
+  width: 60%;
+  height: 140px;
+  border-radius: 25px;
+  margin: 0 auto;
+  text-align: left;
+  }
+.foot-container{
+background-color: #1F2937;
+height: 55px;
+margin: 0;
+text-align: center;
+padding-top: 30px;
+}
+.btn1{
+  background: #3882F6;
+  background-image: -webkit-linear-gradient(top, #3882F6, #3882F6);
+  background-image: -moz-linear-gradient(top, #3882F6, #3882F6);
+  background-image: -ms-linear-gradient(top, #3882F6, #3882F6);
+  background-image: -o-linear-gradient(top, #3882F6, #3882F6);
+  background-image: linear-gradient(to bottom, #3882F6, #3882F6);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 5px 30px 5px 30px;
+  text-decoration: none;
+  position:relative;
+  top: 30px;
+}
+.btn2{
+  background: #3882F6;
+  background-image: -webkit-linear-gradient(top, #3882F6, #3882F6);
+  background-image: -moz-linear-gradient(top, #3882F6, #3882F6);
+  background-image: -ms-linear-gradient(top, #3882F6, #3882F6);
+  background-image: -o-linear-gradient(top, #3882F6, #3882F6);
+  background-image: linear-gradient(to bottom, #3882F6, #3882F6);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 5px 30px 5px 30px;
+  text-decoration: none;
+  position:relative;
+  top: 10px;
+  left: 670px;
+  border-style: solid;
+  border-width: medium;
+  border-color: white;
+}
+.authour{
+  font-size: 25px;
+  font-weight: bold;
+  position: relative;
+  top: 50px;
+  left: 500px;
+}
+.last-call{
+position: relative;
+left: 100px;
+top: 40px;
+}
+figure {
+  border: medium #3882F6 solid;
+  border-radius: 10px;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 180px;
+  margin:0  30px;
+}
+figcaption {
+  background-color: #1F2937;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+.signup-div{
+  width: 45%;
+  height: 60%;
+    text-align: center;
+    background-color: grey;
+    margin: auto;
+    position: relative;
+    top: 150px;
+  border-radius: 10px;
+  padding-top: 20px;
+}
+  input[type=email], input[type=password] {
+  width: 60%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 20px;
+}
+input[type=email]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.recent-events{
+margin: 0;
+position: relative;
+top: 200px;
+padding-left: 200px;
+}
+.Amelie{
+  width: 650px;
+  height: 350px;
+  position: relative;
+  left:600px;
+  border-color: white;
+  border-style: solid;
+  border-width: medium;
+}
+.upcoming-events{
+width: 80%;
+height: 300px;
+display: inline-flex;
+}
+.upcoming-event-img{
+  width: 375px;
+  height: 210px;
+}
+blockquote{
+  margin: 0;
+  text-align: left;
+  line-height: 1;
+  position: relative;
+  top: 150px;
+}
